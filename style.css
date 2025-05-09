@@ -8,7 +8,7 @@ header {
     background-color: #005e8b;
     color: white;
     padding: 1.5em 1em;
-    text-align: left;
+    text-align: center;
 }
 header h1 {
     margin-bottom: 0.2em;
@@ -16,7 +16,7 @@ header h1 {
 .cards {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
     gap: 2em;
     padding: 2em;
 }
